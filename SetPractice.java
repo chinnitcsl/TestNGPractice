@@ -25,8 +25,8 @@ public class SetPractice {
 		
 		/*LinkedHashSet implements only [Set] interface
 		Uses LinkedHashMap to store the objects
-		Maintains insertin order 
-		Performace is slower than TreeSet
+		Maintains insertion order 
+		Performance is slower than TreeSet
 		LinkedHashSet allows only one null objects.*/
 		
 		Set<Integer> s1 = new LinkedHashSet<Integer>();
